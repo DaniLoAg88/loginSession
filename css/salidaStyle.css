@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #5987dc;
+}
+
+.divUser{
+    background-color: cornflowerblue;
+    color: whitesmoke;
+    font-size: 22px;
+    height: 60px;
+    padding: 20px;
+}
+
+.divUser p{
+    margin-left: 5px;
+    background-color: cornflowerblue;
+}
+
+.divBienvenida{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    color: whitesmoke;
+}
